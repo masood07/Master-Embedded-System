@@ -19,5 +19,6 @@ void main()
 	{
 		printf("%d is odd",num);
 	}
+
 }
 
