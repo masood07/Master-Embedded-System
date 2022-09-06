@@ -16,10 +16,12 @@ void main()
 	{
 		printf("Factorial of negative number does not exist");
 	}
+
 	else if(n==0)
 	{
 		printf("0");
 	}
+
 	else{
 		for(int i=1 ; i<=n ;i++)
 		{
