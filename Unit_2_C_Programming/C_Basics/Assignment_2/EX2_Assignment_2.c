@@ -21,5 +21,7 @@ else
 {
 	printf("%c is a consonant",c);
 }
+
+
 }
 
