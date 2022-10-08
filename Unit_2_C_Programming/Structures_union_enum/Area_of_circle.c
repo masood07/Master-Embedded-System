@@ -13,8 +13,8 @@ int main()
 	float Area;
 	printf("Enter the radius: ");
 	fflush(stdin); fflush(stdout);
-	scanf("%d",&radius);
-	Area=Area(radius);
-	printf("Area=%g",Area);
+	scanf("%d",&radius);//insert radius
+	Area=Area(radius);//call macrus
+	printf("Area=%g",Area);//print area
 	return 0;
 }
