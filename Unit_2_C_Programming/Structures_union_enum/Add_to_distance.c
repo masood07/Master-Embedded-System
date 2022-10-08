@@ -17,24 +17,24 @@ int main()
 	printf("Enter information for 1st distance\n");
 	printf("Enter feet: ");
 	fflush(stdin); fflush(stdout);
-	scanf("%f",&d1.feet);
+	scanf("%f",&d1.feet);//insert 1st distance feet
 	printf("Enter inch: ");
 	fflush(stdin); fflush(stdout);
-	scanf("%f",&d1.inch);
+	scanf("%f",&d1.inch);//insert 1st distance inch
 	printf("Enter information for 2st distance\n");
 	printf("Enter feet: ");
 	fflush(stdin); fflush(stdout);
-	scanf("%f",&d2.feet);
+	scanf("%f",&d2.feet);//insert 2st distance feet
 	printf("Enter inch: ");
 	fflush(stdin); fflush(stdout);
-	scanf("%f",&d2.inch);
-	sum.feet=d1.feet+d2.feet;
-	sum.inch=d1.inch+d2.inch;
-	if(sum.inch>12)
+	scanf("%f",&d2.inch);//insert 2st distance inch
+	sum.feet=d1.feet+d2.feet;//add feet distance
+	sum.inch=d1.inch+d2.inch;//add inch distance
+	if(sum.inch>12)//1 feet=12 inch
 	{
 		sum.inch-=12;
 		sum.feet++;
 	}
-	printf("sum of distances=%g\'-%g\"",sum.feet,sum.inch);
+	printf("sum of distances=%g\'-%g\"",sum.feet,sum.inch);//print sum
 	return 0;
 }
