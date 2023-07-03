@@ -36,7 +36,7 @@ typedef int32_t		sint32;
 typedef uint32_t	uint32;
 typedef int64_t		sint64;
 typedef uint64_t	uint64;
-typedef char		  char_t;
+typedef char      char_t;
 
 typedef volatile int8_t		vint8_t;
 typedef volatile uint8_t	vuint8_t;
