@@ -6,6 +6,7 @@ This project is a simple calculator implemented using an embedded system on Prot
 
 - 🛠[Project Details](#Project-Details)
 - 🔌[circuit](#circuit)
+- 📖 [Setup Instructions](#Setup-Instructions)
 - 📖[Usage Instructionss](#Usage-Instructions)
 - 🔍[Source Code Overview](#source-code-overview)
 - 📜[License](#license)
