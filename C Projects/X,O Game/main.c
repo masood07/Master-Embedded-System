@@ -8,7 +8,7 @@ void display(char a[][3]);
 // Main function
 int main()
 {
-    char a[3][3];  // Tic-tac-toe board
+    char a[3][3];  // X,O board
     int flag = 1, cnt = 0, draw = 0;  // Initialize variables
     char *ptr = *a;
 
