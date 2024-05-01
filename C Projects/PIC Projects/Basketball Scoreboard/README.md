@@ -23,7 +23,7 @@ In this project, you will use a microcontroller to control two 4-digit, common a
 
 ## 🔌circuit 
 
-![image](https://drive.google.com/uc?export=view&id=1_asOJ_utVgqLAOL1Ft0q32hLb-bdb-_o)
+![image](https://drive.google.com/uc?export=view&id=1W4hjOFVHGMnW8yi0qLCfjaqWgsVq7L2V)
 
 ## 📖Setup Instructions
 1. Connect the first 7-segment display to the microcontroller's PORTC using a 7447 decoder (RC0 to RC3).
