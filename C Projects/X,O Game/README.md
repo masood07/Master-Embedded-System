@@ -16,7 +16,7 @@ Players take turns marking the 3x3 grid with either 'X' or 'O'. The first player
 
 ## Test Cases:
 * ### X win the game
-![image](https://drive.google.com/uc?export=view&id=12zzQ8KlUvG2ADiw6Blas8mTGX5-LkBfi)
+![image](https://drive.google.com/uc?export=view&id=13O_htiBr21hXchKECOYMFTLQSET8p3s0)
 * ### o win the game
 ![image](https://drive.google.com/uc?export=view&id=1uLeBvjmsIWDn24odSWrmUhHiQjirTDO8)
 
