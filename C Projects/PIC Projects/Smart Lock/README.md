@@ -38,7 +38,7 @@ This project allows the user to enter a password using a keypad. If the password
 - When the program starts, a welcome message "WELCOME USER" is displayed on the LCD.
 - After a delay of 2 seconds, the user is prompted to enter the password using the keypad.
 - If the password matches the predefined password (`1234`), the LCD displays the user's name and performs a scrolling effect:
-    - The content scrolls right 8 times, then left 8 times, with a 300ms delay between each scroll.
+  The content scrolls right 8 times, then left 8 times, with a 300ms delay between each scroll.
 - If the password is incorrect, the message "WRONG PASSWORD" is displayed on the LCD for 1.5 seconds, and the user is prompted to try again.
 
 ## 🔍 Source Code Overview
