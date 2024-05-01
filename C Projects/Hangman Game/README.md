@@ -39,10 +39,10 @@ In this game, you will be playing against a pre-implemented logic in the C code 
 - If you run out of trials without guessing the word, you lose, and the game displays the correct word.
 
 ### Winning Example
-![image](https://drive.google.com/uc?export=view&id=1GJvmJ5vMpMdI8b7jObT35jF4W9Rr3ij0)
+![image](https://drive.google.com/uc?export=view&id=1Cbbmee0EbNg_9McOskDcaZA4qiJS-cUz)
 
 ### Losing Example
-![image](https://drive.google.com/uc?export=view&id=12hOyIbOPLSTi6ksQFojGGig_blX4OkPc)
+![image](https://drive.google.com/uc?export=view&id=1d_WFyBn_tHckxVJLHldvgq1fyML2yaGM)
 
 ## Source Code Overview
 - `main.c`: The main file containing the game's implementation.
