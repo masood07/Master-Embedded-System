@@ -6,12 +6,12 @@ This project is a simple calculator implemented using an embedded system on Prot
 
 - 🛠[Project Details](#Project-Details)
 - 🔌[circuit](#circuit)
-- 📖 [Setup Instructions](#Setup-Instructions)
-- 📖[Usage Instructionss](#Usage-Instructions)
+- 📖[Setup Instructions](#Setup-Instructions)
+- 📖[Usage Instructions](#Usage-Instructions)
 - 🔍[Source Code Overview](#source-code-overview)
 - 📜[License](#license)
 
-## 🛠Project Details
+## 🛠 Project Details
 
 - **Calculator Functionality:** The calculator can perform addition, subtraction, multiplication, and division.
 - **LCD Display:** The calculator uses an LCD to display the input operations and the results.
@@ -24,7 +24,7 @@ This project is a simple calculator implemented using an embedded system on Prot
 - **Calculate:** Press the `=` key to calculate the result of the entered operation. The result will be displayed on the next line of the LCD.
 - **Reset:** To clear the current input and start a new operation, simply start entering a new operation on the keypad.
 
-## 🔌circuit
+## 🔌 circuit
 ![image](https://drive.google.com/uc?export=view&id=1CJohcjs4WN65oyrBNiTvrDXBcbvjLA6N)
 
 ## 📖 Setup Instructions
